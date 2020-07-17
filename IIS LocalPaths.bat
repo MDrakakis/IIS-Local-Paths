@@ -1,1 +1,1 @@
-Powershell.exe -executionpolicy bypass -file "C:\Users\mdrakakis\Desktop\Michael\IIS LocalPath.ps1"
+Powershell.exe -executionpolicy bypass -file ""
